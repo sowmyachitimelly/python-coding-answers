@@ -7,10 +7,10 @@
 ---
 
 ##  Files:
-- `Program-1.py` → Calculator using Class (Addition, Subtraction, Multiplication, Division)
-- `Program-2.py` → Generate odd number series up to given number
-- `Program-3.py` → Generate conditional odd series based on input (odd/even)
-- `Program-4.py` → Count of multiples (1–9) in given list
+- `Program1.py` → Calculator using Class (Addition, Subtraction, Multiplication, Division)
+- `Program2.py` → Generate odd number series up to given number
+- `Program3.py` → Generate conditional odd series based on input (odd/even)
+- `Program4.py` → Count of multiples (1–9) in given list
 
 ---
 
